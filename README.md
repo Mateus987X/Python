@@ -1,7 +1,7 @@
 # Projetos para Análise de Dados
 
-## 📚 Especialização em Análise de Dados
-> Projetos desenvolvidos durante a especialização
+## 📚 Projetos Análise de Dados
+> Projetos desenvolvidos durante a especialização de analista de dados & projetos reais internos, exemplo (MBA - Masket Basket Analysis)
 
-## ⚙️Programas do dia-a-dia
-> Programas que criei para suprir demandas internas
+## ⚙️Programas/scripts do dia-a-dia
+> Programas/scripts que criei para suprir demandas internas
